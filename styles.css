@@ -40,7 +40,7 @@
             font-size: 13px;
             color: #777777;
         }
-        .row button.price-block{
+        .row div.price-block{
             width: 100%;
             padding: 8px;
             background-color: #2ecc71;
