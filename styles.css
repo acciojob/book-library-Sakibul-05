@@ -33,7 +33,7 @@
             padding: 10px;
             border-radius: 10px 10px 0 0;
         }
-        .row h3, p{
+        .row h2, p{
             text-align: left;
         }
         .row p.author{
